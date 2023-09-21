@@ -1,4 +1,4 @@
-
+import demo
 import random as ra
 
 while True:
